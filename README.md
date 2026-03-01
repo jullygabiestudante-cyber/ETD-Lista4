@@ -1,4 +1,5 @@
 # 🚀 Estrutura de Dados | Lista de Exercícios 04
+<<<<<<< HEAD
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -6,12 +7,12 @@
   <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" alt="Repo">
 </p>
 
-## 📌 Sobre o Projeto
+#  📌 Sobre o Projeto
 Este repositório contém as soluções detalhadas da **Lista 04** da disciplina de Estrutura de Dados. O foco principal foi o desenvolvimento de lógica algorítmica aplicada, utilizando **Arrays (Vetores)**, **Métodos Estáticos** e **Modularização**.
 
 ---
 
-## 📂 Organização dos Desafios
+# 📂 Organização dos Desafios
 
 | Questão | 🛠️ Funcionalidade | 🧠 Conceito Chave |
 | :--- | :--- | :--- |
